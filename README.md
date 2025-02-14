@@ -29,7 +29,7 @@
 
 ## 🎬 발표 영상
 
-<a href="https://youtu.be/rIdfkrjFIro?si=6Mf1lEHPCHJ47xe1" target="_blank" rel="noopener noreferrer">
+<a href="https://youtu.be/8vtPz5MMvDE" target="_blank" rel="noopener noreferrer">
 <img src="https://github.com/user-attachments/assets/f85aeef3-b695-40aa-b127-589b6e3c28ad" alt="정글 타워"/>
 [발표 영상 바로가기]
 </a>
